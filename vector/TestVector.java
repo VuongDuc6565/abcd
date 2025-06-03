@@ -9,10 +9,10 @@ public class TestVector {
     }
 
     public static void main(String[] args) {
-        System.out.println("=== Test MyArrayVector ===");
+        System.out.println(" Test MyArrayVector");
         new TestVector(null).testArrayVector();
 
-        System.out.println("\n=== Test MyListVector ===");
+        System.out.println("\n Test MyListVector ");
         new TestVector(null).testListVector();
     }
     
